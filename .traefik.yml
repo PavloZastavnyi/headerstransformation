@@ -1,0 +1,9 @@
+displayName: Headerts ransformation
+type: middleware
+
+import: github.com/PavloZastavnyi/headerstransformation
+
+summary: 'Headerts ransformation'
+
+testData:
+  Foo: Bar
