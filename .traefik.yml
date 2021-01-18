@@ -1,9 +1,10 @@
 displayName: Headerts ransformation
+
 type: middleware
 
 import: github.com/PavloZastavnyi/headerstransformation
 
-summary: 'Headerts ransformation'
+summary: Headerts ransformation
 
 testData:
-  Foo: Bar
+  HeaderName: "X-Traefik-Test"
